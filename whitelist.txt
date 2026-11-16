@@ -1,0 +1,22 @@
+# Domains that must not appear in the built blocklists.
+# One domain per line. A listed domain also covers its subdomains.
+# Keep this short; add more only after a confirmed false positive.
+
+# Captive portal / connectivity checks
+captive.apple.com
+connectivitycheck.gstatic.com
+connectivitycheck.android.com
+clients3.google.com
+www.msftconnecttest.com
+www.msftncsi.com
+dns.msftncsi.com
+detectportal.firefox.com
+
+# List and OS update infrastructure
+raw.githubusercontent.com
+github.com
+objects.githubusercontent.com
+
+# Common font hosts that derived lists sometimes misfire on
+fonts.googleapis.com
+fonts.gstatic.com
