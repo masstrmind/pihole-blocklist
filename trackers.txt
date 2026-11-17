@@ -1,5 +1,5 @@
 # Title: Bryan's Curated Pi-hole Blocklist — Trackers / telemetry
-# Build date: 2026-11-16 18:07 EST
+# Build date: 2026-11-17 04:04 EST
 # Domains: 43,261
 # Sources:
 #   https://v.firebog.net/hosts/Easyprivacy.txt
