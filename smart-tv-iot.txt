@@ -1,5 +1,5 @@
 # Title: Bryan's Curated Pi-hole Blocklist — Smart TV / IoT telemetry
-# Build date: 2026-11-18 04:09 EST
+# Build date: 2026-11-19 04:03 EST
 # Domains: 2,078
 # Sources:
 #   https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
