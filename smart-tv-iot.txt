@@ -1,5 +1,5 @@
 # Title: Bryan's Curated Pi-hole Blocklist — Smart TV / IoT telemetry
-# Build date: 2026-11-20 04:02 EST
+# Build date: 2026-11-21 04:08 EST
 # Domains: 2,078
 # Sources:
 #   https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
@@ -732,6 +732,7 @@ et-info-lgsmartad-com.aws-prd.net
 et-rdx2-lgtvsdp-com.aws-prd.net
 et.nextlgsdp.com
 eu7-info-lgsmartad-com.aws-prd.net
+eu7-rdx2-lgtvsdp-com.aws-prd.net
 euc.adserver.snapads.com
 euw.adserver.snapads.com
 event-tracking.samsung.com
@@ -780,7 +781,6 @@ flow.sec.miui.com
 fls-cn.amazon-adsystem.com
 fls-cn.amazon.cn
 fls-cn.amazon.com
-fls-eu.amazon-adsystem.com
 fls-eu.amazon.ae
 fls-eu.amazon.co.uk
 fls-eu.amazon.com
@@ -797,12 +797,10 @@ fls-eu.amazon.pl
 fls-eu.amazon.sa
 fls-eu.amazon.se
 fls-fe-opf.amazon.com
-fls-fe.amazon-adsystem.com
 fls-fe.amazon.co.jp
 fls-fe.amazon.com
 fls-fe.amazon.com.au
 fls-fe.amazon.sg
-fls-na.amazon-adsystem.com
 fls-na.amazon.ca
 fls-na.amazon.com
 fls-na.amazon.com.br
@@ -1213,6 +1211,7 @@ mistat.rus.xiaomi.com.edgesuite.net
 mistat.rus.xiaomi.com.ksyna.net
 mistat.xiaomi.com
 mistat.xiaomi.com.download.ks-cdn.com
+mistat.xiaomi.com.mgslb.com
 mitv.tracking.intl.miui.com
 miui-l7-data-other-c3.pt.miui.com
 miui-l7-data-other.pt.miui.com
@@ -1703,6 +1702,7 @@ sponsored-ads-eu.amazon.nl
 sponsored-ads-eu.amazon.pl
 sponsored-ads-eu.amazon.sa
 sponsored-ads-eu.amazon.se
+sponsored-ads-euc-1.amazon-adsystem.com
 sponsored-ads-fe.amazon-adsystem.com
 sponsored-ads-na.amazon-adsystem.com
 sponsored-ads.amazon.ae
