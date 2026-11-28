@@ -1,6 +1,6 @@
 # Title: Bryan's Curated Pi-hole Blocklist — Smart TV / IoT telemetry
-# Build date: 2026-11-27 04:08 EST
-# Domains: 2,078
+# Build date: 2026-11-28 04:07 EST
+# Domains: 2,077
 # Sources:
 #   https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
 #   https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
@@ -144,12 +144,11 @@ ad.mi.com
 ad.miui.com
 ad.nettvservices.com
 ad.nextlgsdp.com
-ad.qa.ap.int.roku.com
 ad.quickapp.hybrid.xiaomi.com
 ad.rus.xiaomi.com
 ad.samsungadhub.com
-ad.usw2.qa.ap.int.roku.com
 ad.xiaomi.com
+ad.xiaomi.com.mgslb.com
 ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
 ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
 adc3-launch.adcolony.com
@@ -1107,7 +1106,6 @@ logs.dev.sr.roku.com
 logs.locarta.co
 logs.n.xiaomi.com
 logs.prod.ap.int.roku.com
-logs.qa.ap.int.roku.com
 logs.roku.com
 logs.sr.roku.com
 logs1409.xiti.com
@@ -1702,6 +1700,7 @@ sponsored-ads-eu.amazon.nl
 sponsored-ads-eu.amazon.pl
 sponsored-ads-eu.amazon.sa
 sponsored-ads-eu.amazon.se
+sponsored-ads-eu.jobs.amazon.co.za
 sponsored-ads-euc-1.amazon-adsystem.com
 sponsored-ads-fe.amazon-adsystem.com
 sponsored-ads-na.amazon-adsystem.com
